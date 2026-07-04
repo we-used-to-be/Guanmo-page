@@ -1,0 +1,1 @@
+import{i as t}from"./index-BOr3O_G5.js";import"./codemirror-lang-BfVgajGc.js";import"./codemirror-core-BtwLE_jn.js";async function f(e={}){return typeof e=="object"&&Object.freeze(e),await t("plugin:dialog|open",{options:e})}async function n(e={}){return typeof e=="object"&&Object.freeze(e),await t("plugin:dialog|save",{options:e})}export{f as open,n as save};
